@@ -26,4 +26,18 @@
  d a d c16 bes a g f e
  d8 a d c16 bes a g f e
  d2.
+
+ \break
+ \tempo "Adagio Spiccato e Tutti"
+ \time 4/4
+ \clef bass
+ \key d \minor
+ e'8 e e e a,2
+ d8 d d d g,2
+ g8 g c c a2
+ \bar "||"
+
+ \tempo "Allegro"
+
 }
+
