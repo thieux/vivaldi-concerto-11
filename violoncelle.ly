@@ -14,7 +14,7 @@
  \time 3/4
  \clef bass
  \key d \minor
- r16 d'16 c d a d c d a c bes a @c mesure 20
+ r16 d'16 c d a d c d a c bes a % mesure 20
  bes g f g d g f g d f e d \break
  e c' bes c g c bes c g bes a g 
  a f e f c f e f c e d c \break
@@ -24,7 +24,7 @@
  b d c d b e d e b cis d e \break
  cis8 a d f, a, cis'
  d a d c16 bes a g f e
- d8 a d c16 bes a g f e @c mesure 30
+ d8 a d c16 bes a g f e % mesure 30
  d2. \bar "||"
 
  \break
@@ -32,12 +32,12 @@
  \time 4/4
  \clef bass
  \key d \minor
- e'8 e e e a,2 @mesure 32
+ e'8 e e e a,2 % mesure 32
  d8 d d d g,2
  g8 g c c a2 \bar "||"
 
  \tempo "Allegro"
- r8 d16 e f8 f e e16 f g8 e @c mesure 35
+ r8 d16 e f8 f e e16 f g8 e % mesure 35
  f8 d d'4 g, c
  f, bes e, a
  d, g4. f8 e4
