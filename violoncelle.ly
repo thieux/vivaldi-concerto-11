@@ -9,11 +9,12 @@
  opus = "L'Estro Armonico, Op n° 3"
  composer = "Vivaldi"
 }
-\relative {
+\compressMMRests \relative {
  \tempo "Allegro"
  \time 3/4
  \clef bass
  \key d \minor
+ R2.*19
  r16 d'16 c d a d c d a c bes a % mesure 20
  bes g f g d g f g d f e d \break
  e c' bes c g c bes c g bes a g 
