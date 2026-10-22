@@ -14,21 +14,17 @@
  \time 3/4
  \clef bass
  \key d \minor
- r16 d'16 c d a d c d a c bes a
- bes g f g d g f g d f e d
- \break
+ r16 d'16 c d a d c d a c bes a @c mesure 20
+ bes g f g d g f g d f e d \break
  e c' bes c g c bes c g bes a g 
- a f e f c f e f c e d c
- \break
+ a f e f c f e f c e d c \break
  d bes' a bes f bes a bes f g a bes
- g bes a bes g c bes c g a bes c 
- \break
+ g bes a bes g c bes c g a bes c \break
  a c bes c a d c d a b c d
- b d c d b e d e b cis d e
- \break
+ b d c d b e d e b cis d e \break
  cis8 a d f, a, cis'
  d a d c16 bes a g f e
- d8 a d c16 bes a g f e
+ d8 a d c16 bes a g f e @c mesure 30
  d2. \bar "||"
 
  \break
@@ -36,13 +32,12 @@
  \time 4/4
  \clef bass
  \key d \minor
- e'8 e e e a,2
+ e'8 e e e a,2 @mesure 32
  d8 d d d g,2
- g8 g c c a2
- \bar "||"
+ g8 g c c a2 \bar "||"
 
  \tempo "Allegro"
- r8 d16 e f8 f e e16 f g8 e
+ r8 d16 e f8 f e e16 f g8 e @c mesure 35
  f8 d d'4 g, c
  f, bes e, a
  d, g4. f8 e4
@@ -64,7 +59,7 @@
  g8 e a a, d d'16 c bes a g f
  e8 c'16 bes a g f e d8 bes'16 a g f e d
  c8 a'16 g f e d c bes8 g'16 f e d c bes
- a8 f'16 e d c b a gis8 g g g
+ a8 f'16 e d c b a gis8 gis gis gis
  a4 r4 r16 a' d c d a bes c
  bes2~ bes16 g c bes c g a bes
  a4. a8 b4. gis8
@@ -88,7 +83,7 @@
  a8 d a' a, d g, d' d,
  g4 r8 g' c a d d,
  g8 d'16 e f8 f e e16 f g8 e
- f8 d,16 d f g a b c8 c,16 d e f g a
+ f8 d,16 e f g a b c8 c,16 d e f g a
  bes8 bes,16 c d e f g c,8 c'16 bes a8 a
  g a16 bes c8 bes a f c'4~
  c4 b c8 c,16 d e8 c
