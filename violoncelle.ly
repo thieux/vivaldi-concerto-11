@@ -103,6 +103,14 @@
  \break
  \tempo "Largo e Spiccato"
  \time 12/8
- d'4
+ d'4 d8 d4 d8 d4 d8 cis4 cis8 % mesure 106
+ d4 d,8 g'4 g8 fis8. g16 fis8 f4 f8
+ g8. a16 g8 a4 a,8 d4. r4.
+ R4.*4*13
+ r4. r4. d4 d8 d4 d8
+ d4 d8 cis4 cis8 d4 d,8 g'4 g8
+ fis8. g16 fis8
+ f4 f8 g8. a16 g8 a4 a,8
+ d1. \fermata
 }
 
