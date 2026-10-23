@@ -112,5 +112,63 @@
  fis8. g16 fis8
  f4 f8 g8. a16 g8 a4 a,8
  d1. \fermata
+
+ \break
+ \tempo "Allegro"
+ \time 4/4
+ R1*3
+ r8 d' d d d cis cis c
+ c b b bes bes a a g
+ g fis f f g g a a
+ d,16 d' c d a bes c d bes d c e bes c d bes
+ g16 c bes c g a bes c a c bes c a bes c a
+ f bes a bes f g a bes g bes a bes g a bes g
+ e a g a e f g a f a g a f g a f
+ d e f g a b cis d cis8 a d16 d d d
+ cis cis cis cis c c c c b b b b bes bes bes bes
+ a a a a d d d d g, g g g a a a a
+ d,4 r4 r2
+ r2 d'8 d,16 e f8 d
+ g g, r8 g' c c,16 d e8 c
+ f f, r8 f' bes bes,16 c d8 bes
+ e e, r8 e' a a,16 b c8 a 
+ d d, r8 d'' e e,16 f g8 e
+ a,8 a' a a a gis gis g
+ g fis fis f f e e d
+ d cis cis c d d e e
+ a,4 r4 d r4
+ g r c, r
+ f r b, r
+ e r a, r
+ a' r gis a16 a a a
+ gis gis gis gis g g g g fis fis fis fis f f f f
+ e e e e a, a a a d d d d e e e e
+ a,4 r d r
+ g r c r
+ f, r bes r 
+ e, r a r
+ d, r d r
+ R1*8
+ R1
+ r2 a8 cis b a
+ d16 d d d d d d d a'4 r8 a,
+ d b e e, a cis' cis cis
+ d16 cis d e cis b cis d b4. b8
+ c16 bes c d bes a bes c a4. a8
+ bes16 a bes c bes c bes a g4. g8
+ a8 a, a a d4 r8 d
+ a a' a a d4 r8 d,
+ a' a, a a d4 r8 d 
+ a4 r8 d a' a, r cis'
+ d8 d, r d' e, c r c'
+ f, f, r f' g4 cis,
+ d8 d' d d d cis cis c
+ c b b bes bes a a g
+ g fis fis f g g a a
+ d,8 d' d,4 r8 d' d,4
+ r8 d' d,4 r8 g g,4
+ r8 g'8 g,4 r8 a'8 a,4
+ r8 a'8 a,4 r8 a'8 a,4
+ r8
 }
 
