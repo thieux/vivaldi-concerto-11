@@ -111,7 +111,7 @@
  d4 d8 cis4 cis8 d4 d,8 g'4 g8
  fis8. g16 fis8
  f4 f8 g8. a16 g8 a4 a,8
- d1. \fermata
+ d1. \fermata \bar "||"
 
  \break
  \tempo "Allegro"
@@ -179,6 +179,6 @@
  g16 g g g a a a a d,4 d16 d d d
  cis cis cis cis c c c c b b b b bes bes bes bes
  a16 a a a d, d d d g g g g a a a a
- d,1 \fermata
+ d,1 \fermata \bar "|."
 }
 
