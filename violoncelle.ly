@@ -169,6 +169,16 @@
  r8 d' d,4 r8 g g,4
  r8 g'8 g,4 r8 a'8 a,4
  r8 a'8 a,4 r8 a'8 a,4
- r8
+ r8 a'8 a,4 r8 a' a,4
+ r8 a'8 a,4 r8 a'8 a, g
+ f8 d'' d,4 r8 d' d,4
+ r8 a'8 a,4 r8 a'8 a,4
+ r8 a'8 a,4 r8 a'8 a,4
+ d4 d'16 d d d cis cis cis cis c c c c
+ b b b b bes bes bes bes a a a a d, d d d
+ g16 g g g a a a a d,4 d16 d d d
+ cis cis cis cis c c c c b b b b bes bes bes bes
+ a16 a a a d, d d d g g g g a a a a
+ d,1 \fermata
 }
 
